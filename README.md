@@ -43,7 +43,7 @@ AWS Certified Solutions Architect –Associate (SAA-C02)Exam Guide
     Scenario based questions
 
 
-[AWS](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[AWS offical link for certification details](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 
 
